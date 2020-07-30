@@ -1,2 +1,2 @@
-# cs251_data_analysis_and_visualization
-Performs data analysis on datasets using Python libraries
+# Spam Email Filter
+This project is a spam email filter that uses Naive Bayes to learn from the training set and predict the samples in testing set to determine whether an email is spam or not.
